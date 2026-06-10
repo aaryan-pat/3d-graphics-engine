@@ -1,0 +1,11 @@
+build/
+.vs/
+*.exe
+*.obj
+*.lib
+*.o
+*.a
+*.so
+*.dylib
+.DS_Store
+CMakeUserPresets.json
